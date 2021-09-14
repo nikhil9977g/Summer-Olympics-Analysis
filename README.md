@@ -1,3 +1,3 @@
-# Summer-Olympics-Analysis
+# Summer-Olympics-Data-Analysis
 
-### This is the Summer Olympics Analysis Project. 
+### This is the Summer Olympics Data Analysis Project. 
